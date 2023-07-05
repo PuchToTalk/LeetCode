@@ -1,5 +1,5 @@
 # LeetCode
-<img width="404" alt="Capture d’écran 2023-07-04 à 10 29 05" src="https://github.com/PuchToTalk/LeetCode/assets/90144938/9b23b9f7-a768-4f0c-9382-fbc57a4e5a40">
+![leecode](https://github.com/PuchToTalk/LeetCode/assets/90144938/92db4a66-a233-4a3a-98d5-c5ba8d50b8bd)
 
 
 ## ENG 🇺🇸🏴󠁧󠁢󠁥󠁮󠁧󠁿
@@ -13,3 +13,7 @@ Préparation au coding interview sur LeetCode
 
 Ce dépôt a pour but de traiter tous les problèmes récurrents présents sur le site Leetcode. Cela m'aidera à me familiariser aux algorithmes simples. Et d'être prêt pour faire face aux problèmes lors des entretiens techniques.
 
+
+
+
+<img width="1170" alt="Capture d’écran 2023-07-05 à 15 31 39" src="https://github.com/PuchToTalk/LeetCode/assets/90144938/b54644d8-1d40-4b36-80cf-da4a9e5090c4">
